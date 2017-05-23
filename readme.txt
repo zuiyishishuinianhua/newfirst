@@ -5,4 +5,5 @@ this is the four commit;
 this si this five commit;
 git tracks changes of files;
 test remote push
-test create dev branch and %%%master
+test create dev new branch and new simple
+
